@@ -4,4 +4,4 @@
   e que pude aprimorar meus conhecimentos em css, alterando os estilos e deixando um projeto responsivo. Também acrescentei outras moedas para conversão utilizando JavaScript.  </h3>
 <br>
 
-<img src="https://github.com/PatriciaOp/conversor-de-moedas/blob/main/assets/readmerImg.png?raw=true"/>
+<img src="https://github.com/PatriciaOp/conversor-de-moedas/blob/main/assets/readmerImg.jpg?raw=true"/>
